@@ -30,5 +30,3 @@ class HtmlPage(HtmlRenderable):
 
     def build(self):
         return self.page.build()
-
-print(HtmlPage().render())

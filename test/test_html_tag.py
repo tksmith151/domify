@@ -1,6 +1,6 @@
 import unittest
 
-from src.html_tag import tag
+from src import tag
 
 class TestHtmlTag(unittest.TestCase):
 
