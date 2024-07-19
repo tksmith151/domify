@@ -1,0 +1,25 @@
+[build-system]
+requires      = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pydomify"
+version = "0.0.1"
+description = "Quickly compose HTML documents"
+readme = "README.md"
+authors = [{ name = "Trevor Smith", email = "tksmith151@gmail.com" }]
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+keywords = ["html", "builder"]
+dependencies = []
+requires-python = ">=3.9"
+
+[project.optional-dependencies]
+dev = ["black", "pip-tools"]
+
+[project.urls]
+Homepage = "https://github.com/tksmith151/pydomify"
