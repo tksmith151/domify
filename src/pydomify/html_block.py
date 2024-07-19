@@ -2,15 +2,15 @@
 # Standard Imports #
 ####################
 
-from src.standard_imports import *
+from src.pydomify.standard_imports import *
 
 #################
 # Local Imports #
 #################
 
 
-from src.html_renderable import HtmlRenderable
-from src.html_text import HtmlText
+from src.pydomify.html_renderable import HtmlRenderable
+from src.pydomify.html_text import HtmlText
 
 
 #############

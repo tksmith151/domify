@@ -1,6 +1,6 @@
 import unittest
 
-from src import tag
+from src.pydomify import tag
 
 class TestHtmlTag(unittest.TestCase):
 

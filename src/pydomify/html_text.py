@@ -2,14 +2,14 @@
 # Standard Imports #
 ####################
 
-from src.standard_imports import *
+from src.pydomify.standard_imports import *
 
 #################
 # Local Imports #
 #################
 
 
-from src.html_raw_text import HtmlRawText
+from src.pydomify.html_raw_text import HtmlRawText
 
 
 #############

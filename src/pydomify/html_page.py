@@ -2,16 +2,16 @@
 # Standard Imports #
 ####################
 
-from src.standard_imports import *
+from src.pydomify.standard_imports import *
 
 #################
 # Local Imports #
 #################
 
 
-from src.html_attr import attr
-from src.html_block import HtmlBlock, HtmlRenderable
-from src.html_tag import tag
+from src.pydomify.html_attr import attr
+from src.pydomify.html_block import HtmlBlock, HtmlRenderable
+from src.pydomify.html_tag import tag
 
 
 

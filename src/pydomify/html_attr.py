@@ -3,7 +3,7 @@
 #################
 
 
-from src.html_attribute import HtmlAttribute
+from src.pydomify.html_attribute import HtmlAttribute
 
 
 ######################

@@ -2,7 +2,7 @@
 # Standard Imports #
 ####################
 
-from src.standard_imports import *
+from src.pydomify.standard_imports import *
 
 
 #############

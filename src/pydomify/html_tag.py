@@ -3,7 +3,7 @@
 ####################
 
 
-from src.standard_imports import *
+from src.pydomify.standard_imports import *
 
 
 #################
@@ -11,7 +11,7 @@ from src.standard_imports import *
 #################
 
 
-from src.html_element import HtmlElement
+from src.pydomify.html_element import HtmlElement
 
 
 ############
